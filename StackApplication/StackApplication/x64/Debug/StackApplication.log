@@ -1,0 +1,11 @@
+﻿  BoardSpaces.cpp
+  SimpleCalculator.cpp
+C:\Users\thanh\OneDrive\Desktop\Resume Project\StackApplication\StackApplication\SimpleCalculator.cpp(181,9): warning C4101: 'answer': unreferenced local variable
+  StackApplication.cpp
+  TranslationArithmetic.cpp
+C:\Users\thanh\OneDrive\Desktop\Resume Project\StackApplication\StackApplication\TranslationArithmetic.cpp(22,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thanh\OneDrive\Desktop\Resume Project\StackApplication\StackApplication\TranslationArithmetic.cpp(57,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  n_Queens.cpp
+  Generating Code...
+C:\Users\thanh\OneDrive\Desktop\Resume Project\StackApplication\StackApplication\SimpleCalculator.cpp(289,1): warning C4715: 'SimpleCalculator::getPrecendence': not all control paths return a value
+  StackApplication.vcxproj -> C:\Users\thanh\OneDrive\Desktop\Resume Project\StackApplication\x64\Debug\StackApplication.exe
